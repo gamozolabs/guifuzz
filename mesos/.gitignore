@@ -1,0 +1,17 @@
+/target
+**/*.rs.bk
+*.i64
+*.idb
+*.meso
+cache
+coverage.txt
+*.zip
+*.dmp
+*.dmp
+/archivey_run
+/crashes
+/examples
+/inputs
+*.txt
+*.meso
+

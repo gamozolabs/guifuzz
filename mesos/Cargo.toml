@@ -1,0 +1,11 @@
+[package]
+name = "mesos"
+version = "0.1.0"
+authors = ["bfalk"]
+
+[dependencies]
+debugger = { path = "libs/debugger" }
+guifuzz = { path = "../guifuzz" }
+
+[profile.release]
+debug = true
